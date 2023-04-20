@@ -1,0 +1,14 @@
+C:\Users\kugis\source\repos\BMI\BMI\bin\Release\BMI.exe.config
+C:\Users\kugis\source\repos\BMI\BMI\bin\Release\BMI.exe
+C:\Users\kugis\source\repos\BMI\BMI\bin\Release\BMI.pdb
+C:\Users\kugis\source\repos\BMI\BMI\bin\Release\BMI.xml
+C:\Users\kugis\source\repos\BMI\BMI\obj\Release\BMI.vbproj.AssemblyReference.cache
+C:\Users\kugis\source\repos\BMI\BMI\obj\Release\BMI.vbproj.SuggestedBindingRedirects.cache
+C:\Users\kugis\source\repos\BMI\BMI\obj\Release\BMI.Form1.resources
+C:\Users\kugis\source\repos\BMI\BMI\obj\Release\BMI.Form2.resources
+C:\Users\kugis\source\repos\BMI\BMI\obj\Release\BMI.Resources.resources
+C:\Users\kugis\source\repos\BMI\BMI\obj\Release\BMI.vbproj.GenerateResource.cache
+C:\Users\kugis\source\repos\BMI\BMI\obj\Release\BMI.vbproj.CoreCompileInputs.cache
+C:\Users\kugis\source\repos\BMI\BMI\obj\Release\BMI.exe
+C:\Users\kugis\source\repos\BMI\BMI\obj\Release\BMI.xml
+C:\Users\kugis\source\repos\BMI\BMI\obj\Release\BMI.pdb
